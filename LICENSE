@@ -1,0 +1,32 @@
+Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+
+Copyright (c) 2025 Muhammad Bilal Aslam and co-authors.
+
+This work is licensed under the Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+Full licence text: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+Summary:          https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+You are free to share and adapt this material for non-commercial purposes,
+provided you give appropriate credit and license derivative works under
+identical terms.
+
+--------------------------------------------------------------------------
+ATTRIBUTION — DERIVED WORK
+--------------------------------------------------------------------------
+
+This repository builds on the official implementation of ABM:
+
+  Bian, X., Qin, B., Xin, X., Li, J., Su, X., & Wang, Y. (2022).
+  Handwritten Mathematical Expression Recognition via Attention
+  Aggregation based Bi-directional Mutual Learning.
+  Proceedings of the AAAI Conference on Artificial Intelligence, 36(1).
+  https://github.com/XH-B/ABM
+
+The training loop, data pipeline and overall codebase structure derive from
+that work, which is released under CC BY-NC-SA. This repository is licensed
+under the same terms in accordance with the ShareAlike condition.
+
+The contributions of this work — the multi-scale feature collection (FC)
+module and the region-wise attention aggregation (RWA) module — are our own.
